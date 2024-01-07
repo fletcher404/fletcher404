@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gavin Fletche
+- 👋 Hi, I’m Gavin Fletcher
 - 📫 How to reach me @fletcher404
 
 <!---
